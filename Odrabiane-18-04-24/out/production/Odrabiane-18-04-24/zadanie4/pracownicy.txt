@@ -1,0 +1,5 @@
+Jan;Testowy;jan@testowy.pl;92030409987;4356.98
+Anna;Nowak;anna@nowak.pl;89091002341;1000.12
+Leroy;Jenkins;leroy@wow.pl;78060704213;4356.78
+Johnny;Cage;johnny@mk.pl;99040902223;2500
+John;Snow;uknownothing@johnsnow.pl;85101122765;3249
